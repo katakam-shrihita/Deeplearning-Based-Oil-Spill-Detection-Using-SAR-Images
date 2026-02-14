@@ -1,5 +1,3 @@
-# Deeplearning-Based-Oil-Spill-Detection-Using-SAR-Images
-
 # Deep Learning-Based Oil Spill Detection Using SAR Images
 
 ## 📌 Overview
