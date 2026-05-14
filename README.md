@@ -7,7 +7,14 @@ This repository presents a deep learning framework for **oil spill detection and
 The work evaluates multiple baseline models and proposes an enhanced attention-based U-Net variant for improved boundary delineation and segmentation accuracy.
 
 ---
+📄 Published Research Paper
 
+This project is associated with our published research paper:
+
+**Boundary-Aware Dual-Attention U-Net for Multi-Class Oil Spill Segmentation in SAR Imagery**  
+Published in *Marine Pollution Bulletin, Elsevier (Volume 230, 2026)*
+
+🔗 Paper Link: https://www.sciencedirect.com/science/article/abs/pii/S0025326X26006120
 ## 🛰️ Dataset
 
 * **Dataset:** M4D Sentinel-1 SAR Oil Spill Dataset
